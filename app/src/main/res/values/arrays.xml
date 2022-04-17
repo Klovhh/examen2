@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="areas">
+    <item>Programacion</item>
+    <item>Redes</item>
+    <item>Bases de datos</item>
+    <item>Matematicas</item>
+
+</string-array>
+</resources>
